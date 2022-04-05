@@ -9,5 +9,9 @@ int main()
     cout << "\nFinal Project-Object Oriented Programming\n\nC++ OOP financial tool.";
     cout << "\nPresent date : 27 April. 5 minutes each present, 5 minutes for Q/A.";
     cout << "\n\nGroup Members: \n1. Koranit Ananpoopsap_64011441 \n2. Jirapat Wonjaroenrat_64011405 \n3. Chonlaphat Ink..._" << endl;
-    cout << "Test commit";
+    cout << "Test commit" << endl;
+    int x;
+    cout << "enter num: ";
+    cin >> x;
+    cout << "your sum of your num and 10 is " << x + 10 << endl;
 }
