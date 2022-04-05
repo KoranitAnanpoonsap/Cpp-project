@@ -10,5 +10,9 @@ int main()
          << "\nFinal Project-Object Oriented Programming\n\nC++ OOP financial tool."
          << "\nPresent date : 27 April. 5 minutes each present, 5 minutes for Q/A."
          << "\n\nGroup Members: \n1. Koranit Ananpoopsap_64011441 \n2. Jirapat Wonjaroenrat_64011405 \n3. Chonlaphat Ink..._" << endl;
+<<<<<<< HEAD
          << "What's sup";
+=======
+         
+>>>>>>> 8bece3f1ef3052f212aae8006a791e676d9592f6
 }
